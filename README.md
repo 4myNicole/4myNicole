@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @4myNicole
+- I am a Data analsyt at Amazon
 - 🌱 I’m currently learning Software and Web Development
 
 
